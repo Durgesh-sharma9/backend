@@ -1,18 +1,22 @@
 {
   "name": "backend-practice",
   "version": "1.0.0",
-  "description": "first time",
+  "description": "first app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
-    "hi"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Durgesh-sharma9/backend.git"
+  },
   "author": "dev",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Durgesh-sharma9/backend/issues"
+  },
+  "homepage": "https://github.com/Durgesh-sharma9/backend#readme",
   "dependencies": {
-    "dotenv": "^17.2.1",
     "express": "^5.1.0"
   }
 }
